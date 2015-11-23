@@ -1,0 +1,43 @@
+#logo {
+  height: 5%;
+  width: 5%;
+}
+/*bcg image*/
+body {
+  background-image: url(../bcg6.jpg);
+  background-size: cover;
+}
+
+h1 {
+  font-family: 'Kelly slab' , cursive;
+  text-align: center;
+  color: white;
+}
+
+header p {
+  font-family: 'Kelly slab' , cursive;
+  text-align: center;
+  color: white;
+}
+/*color & border*/
+table {
+  border: solid 2px white;
+  background-color: #12a1af;
+}
+
+th {
+  font-family: 'Kelly slab' , cursive;
+  color: #000000;
+}
+
+.table-striped>tbody>tr:nth-of-type(even) {
+  color: white;
+}
+
+.table-striped>tbody>tr:nth-of-type(odd) {
+  color: #087681;
+}
+
+footer {
+  color: white;
+}
