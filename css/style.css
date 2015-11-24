@@ -29,7 +29,7 @@ th {
   font-family: 'Kelly slab' , cursive;
   color: #000000;
 }
-
+/*color impair & pairs line table*/
 .table-striped>tbody>tr:nth-of-type(even) {
   color: white;
 }
